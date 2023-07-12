@@ -27,7 +27,8 @@ body {
 
 hr {
   width: 300px;
-  height: 3px;
+  height: 1px;
   position: relative;
-  top: 20px;
+  top: 25px;
+  background-color: black;
 }
