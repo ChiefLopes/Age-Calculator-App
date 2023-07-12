@@ -16,6 +16,7 @@ body {
      width: 500px;
      height: 500px;
      padding: 50px;
+     border-radius: 2rem 2rem 10rem 2rem;
 }
 
 .line {
