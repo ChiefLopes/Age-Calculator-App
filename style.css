@@ -33,8 +33,7 @@ hr {
 }
 
 input {
-  display: flex;
-  flex-direction: column;
+  display: inline-block;
   width: 75px;
   height: 35px;
   border: 2px solid #f0f0f0;
