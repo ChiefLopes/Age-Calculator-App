@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       height: 100vh;
+}
+
+.container {
+     background-color: aliceblue;
+     width: 500px;
+     height: 500px;
+     padding: 50px;
+}
+
+.line {
+   display: flex;
+}
+
+hr{
+    width: 300px;
+    height: 3px;
+    position: relative;
+    top: 20px;
+}
