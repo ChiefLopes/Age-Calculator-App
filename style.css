@@ -35,8 +35,11 @@ hr {
 input {
   display: flex;
   flex-direction: column;
-  width: 70px;
-  height: 30px;
+  width: 75px;
+  height: 35px;
+  border: 2px solid #f0f0f0;
+  outline: 0;
+  font-size: 18px;
 }
 
 label {
@@ -46,4 +49,5 @@ label {
   right: 80px;
   font-size: 12px;
   font-weight: 400;
+
 }
