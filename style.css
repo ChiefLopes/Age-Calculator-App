@@ -32,7 +32,7 @@ hr {
   background-color: black;
 }
 
-input {
+form input {
   display: inline-block;
   width: 75px;
   height: 35px;
@@ -49,4 +49,10 @@ label {
   font-size: 12px;
   font-weight: 400;
 
+}
+
+.dates-inputs {
+  border: none;
+  outline: none;
+  color: chartreuse;
 }
